@@ -1,14 +1,8 @@
-@font-face{
-    font-family: Vazir;
-    src: url("tests/font/Vazir.ttf");
-}
-
 *{
     padding: 0;
     margin: 0;
 
     direction: rtl !important;
-    font-family: Vazir;
 }
 
 
