@@ -14,18 +14,122 @@
 
 
 /* extra small devices */
-
+h1{
+    font-size: 2.1rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+h3{
+    font-size: 1.2rem;
+}
+h4{
+    font-size: 1rem;
+}
+h5{
+    font-size: 0.95rem;
+}
+h6{
+    font-size: 0.9rem;
+}
 
 
 
 /* small devices (sm)*/
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+    h1{
+        font-size: 2.2rem;
+    }
+    h2{
+        font-size: 1.6rem;
+    }
+    h3{
+        font-size: 1.3rem;
+    }
+    h4{
+        font-size: 1.1rem;
+    }
+    h5{
+        font-size: 1rem;
+    }
+    h6{
+        font-size: 0.9rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
 
 /* medium devices (md)*/
-@media (min-width: 768px) {}
+@media (min-width: 768px) {
+    h1{
+        font-size: 2.25rem;
+    }
+    h2{
+        font-size: 1.65rem;
+    }
+    h3{
+        font-size: 1.35rem;
+    }
+    h4{
+        font-size: 1.15rem;
+    }
+    h5{
+        font-size: 1.1rem;
+    }
+    h6{
+        font-size: 0.9rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
 
 /* large devices (lg)*/
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+    h1{
+        font-size: 2.3rem;
+    }
+    h2{
+        font-size: 1.7rem;
+    }
+    h3{
+        font-size: 1.4rem;
+    }
+    h4{
+        font-size: 1.2rem;
+    }
+    h5{
+        font-size: 1.1rem;
+    }
+    h6{
+        font-size: 0.9rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
 
 /* extra large devices (xl)*/
 @media (min-width: 1200px) {
