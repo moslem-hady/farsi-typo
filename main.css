@@ -173,6 +173,14 @@ p,a,button{
 
 /* extra large devices (xl)*/
 @media (min-width: 1200px) {
+    *{
+        padding: 0;
+        margin: 0;
+    
+        direction: rtl !important;
+    }
+
+
     h1{
         font-size: 2.4rem;
     }
