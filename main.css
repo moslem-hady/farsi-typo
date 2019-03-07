@@ -48,6 +48,13 @@ p,a,button{
 
 /* small devices (sm)*/
 @media (min-width: 576px) {
+    *{
+        padding: 0;
+        margin: 0;
+    
+        direction: rtl !important;
+    }
+
     h1{
         font-size: 2.2rem;
     }
@@ -83,6 +90,12 @@ p,a,button{
 
 /* medium devices (md)*/
 @media (min-width: 768px) {
+    *{
+        padding: 0;
+        margin: 0;
+    
+        direction: rtl !important;
+    }
     h1{
         font-size: 2.25rem;
     }
