@@ -1,7 +1,7 @@
 /*
 
 use other stylesheets
-in sprated files
+in seprated files
 don't modify this file
 
 :) Mahdi Akbari
@@ -50,7 +50,6 @@ p,a,button{
 
 /* small devices (sm)*/
 @media (min-width: 576px) {
-    
     h1{
         font-size: 2.2rem;
     }
@@ -122,7 +121,6 @@ p,a,button{
 
 /* large devices (lg)*/
 @media (min-width: 992px) {
-
     h1{
         font-size: 2.3rem;
     }
@@ -158,7 +156,6 @@ p,a,button{
 
 /* extra large devices (xl)*/
 @media (min-width: 1200px) {
-
     h1{
         font-size: 2.4rem;
     }
